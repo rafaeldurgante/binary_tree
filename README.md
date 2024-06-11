@@ -1,5 +1,6 @@
 # binary_tree
 Inorder traversal binary tree
+This code returns this: Inorder traversal of the binary search: 20 30 40 50 60 70 80
 
 Step-by-Step Explanation
 Insert 50:
