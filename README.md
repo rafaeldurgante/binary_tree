@@ -1,4 +1,5 @@
 # binary_tree
+
 Inorder traversal binary tree code returns this: Inorder traversal of the binary search: 20 30 40 50 60 70 80
 
 Step-by-Step Explanation
@@ -29,7 +30,11 @@ Insert 80:
 80 is greater than 70, so 80 goes to the right of 70.
 
 Visualization
+
 To visualize this tree, you can use online tools like Graphviz or draw it manually. Here is a DOT format description for use with Graphviz:
+http://www.webgraphviz.com/
+
+
 digraph BST {
     node [fontname="Arial"];
     50 -> 30;
